@@ -1,2 +1,4 @@
 survey_results_public.csv
 env/
+.ipynb_checkpoints
+*.tmp
